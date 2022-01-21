@@ -49,7 +49,7 @@ The files structure is arranged as below:
 ## Visualization
 We created graphs to see the patterns or distributions in dataset. Here are some examples:
 
-![graph1](/images/numeric1png)
+![graph1](/images/numeric1.png)
 
 ![graph2](/images/categorical1.png)
 
